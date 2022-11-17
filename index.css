@@ -1,0 +1,36 @@
+#getText{
+    height: 50px;
+    width: 100px;
+    color: black;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#getUsers{
+    height: 50px;
+    width: 100px;
+    color: black;
+    background-color: lightpink;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#getPosts{
+    height: 50px;
+    width: 100px;
+    color: black;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#addPost{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+#addPostBtn{
+    margin-top: 10px;
+    background-color: rgb(244, 173, 173);
+    cursor: pointer;
+}
